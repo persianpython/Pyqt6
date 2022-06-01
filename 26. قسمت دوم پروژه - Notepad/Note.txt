@@ -1,0 +1,34 @@
+File :
+1.New
+2.Open
+3.Save
+-
+4.Print
+5.Print Preview
+6.Export PDF
+-
+7.Quite
+
+Edit:
+Undo
+Redo
+-
+Cut
+Copy
+Paste
+
+Format:
+Bold
+Italic
+Underline
+-
+Left
+Right
+Center
+Justify
+-
+Font
+Color
+
+About:
+About App
